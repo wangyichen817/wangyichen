@@ -42,27 +42,27 @@
 //	return 0;
 //}
 //≤È’“9
-#include<stdio.h>
-#include<stdlib.h>
-int main()
-{
-	int a=0,b=0,d=0;
-	for (int c = 1; c < 101; c++)
-	{
-		if (c/10 ==9)
-		{
-			d++;
-		}
-		else if (c%10== 9)
-		{
-			d++;
-		}
-		if (c / 10 == 9 && c % 10 == 9)
-		{
-			d++;
-		}
-	}
-		printf("%d\n", d);
-	system("pause");
-	return 0;
-}
+//#include<stdio.h>
+//#include<stdlib.h>
+//int main()
+//{
+//	int a=0,b=0,d=0;
+//	for (int c = 1; c < 101; c++)
+//	{
+//		if (c/10 ==9)
+//		{
+//			d++;
+//		}
+//		else if (c%10== 9)
+//		{
+//			d++;
+//		}
+//		if (c / 10 == 9 && c % 10 == 9)
+//		{
+//			d++;
+//		}
+//	}
+//		printf("%d\n", d);
+//	system("pause");
+//	return 0;
+//}
